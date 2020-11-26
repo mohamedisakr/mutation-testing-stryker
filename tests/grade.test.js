@@ -1,9 +1,4 @@
-const {
-  GradeType,
-  computeGrade,
-  attendanceError,
-  marksError,
-} = require("../Rajib-Mall/assigment-2/grade");
+const{ computeGrade, GradeType, attendanceError, marksError } = require('../grade')
 
 //#region
 // /*
